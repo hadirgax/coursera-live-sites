@@ -4,11 +4,11 @@ You can use the [editor on GitHub](https://github.com/hadirga/coursera-test/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-**Module 1**:
-**Module 2**:
-**Module 3**:
-**Module 4**:
-**Module 5**: https://hadirga.github.io/coursera-live-sites/module5-solution/index.html
+- **Module 1**:
+- **Module 2**:
+- **Module 3**:
+- **Module 4**:
+- **Module 5**: https://hadirga.github.io/coursera-live-sites/module5-solution/index.html
 
 ### Markdown
 
